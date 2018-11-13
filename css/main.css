@@ -3,3 +3,13 @@ html {
   color: #6feff9;
   font-family: "Ubuntu Mono", monospace;
 }
+
+svg {
+  width: 100%;
+}
+
+menu li {
+  display: inline-block;
+  list-style-type: none;
+  color: #6feff9;
+}
